@@ -1,34 +1,21 @@
 # Creator Camp
 
-Creator Camp is an original-IP development and publishing system for turning ideas into serialized web fiction, light novels, manga, comics, illustration collections, audio, games, and eventual anime/TV development packages.
-
-## What this repository contains
-
-- A staged creator-to-IP curriculum
-- Web-fiction and light-novel production guides
-- Manga, webtoon, and comic serialization workflows
-- Amazon KDP and wide-distribution playbooks
-- Submission and recognition routes
-- Rights, provenance, and adaptation planning
-- Reusable templates for outlines, bibles, episodes, metadata, and pitches
-
-## Core principle
-
-Build one rights-clean flagship IP, prove it in multiple formats, own the audience relationship, and keep adaptation rights separate until professionally negotiated.
+Creator Camp is an original-IP development and publishing system for web fiction, light novels, manga, comics, illustration, audio, games, and future anime/TV packages.
 
 ## Start here
 
-1. Read [the operating model](docs/00-operating-model.md).
-2. Choose a flagship IP using [the selection rubric](templates/ip-selection-rubric.md).
-3. Draft a 10-chapter web-fiction season with [the web-fiction guide](docs/01-web-fiction.md).
-4. Convert the strongest arc into a light-novel volume and manga pilot.
-5. Track submissions, releases, evidence, and rights in [the tracker](templates/submission-and-release-tracker.csv).
+1. Read docs/00-operating-model.md.
+2. Read docs/09-repository-ecosystem-audit-2026-08.md.
+3. Use docs/10-integration-architecture.md.
+4. Select a flagship IP with templates/ip-selection-rubric.md.
+5. Draft web fiction, then convert the strongest arc into a light novel and manga pilot.
 
-## Format ladder
+## Ecosystem architecture
 
-```
-Idea → premise → web fiction → revised light novel → manga pilot
-     → webcomic → ebook/print → audio/motion → adaptation package
-```
+chozen-land: ontology, canon, lore, scenes, stories, exports
+choTaku: typed storyworld, graph, production contracts, validation, provenance
+Creator Camp: creator workflow, publishing, submissions, portfolio, launch evidence
+ai-comic-factory and open-design: rendering and presentation surfaces
+nocTurneMeLoDieS: audio, soundtrack, and distribution layer
 
 Creator Camp is a production framework, not legal advice. Consult qualified publishing or entertainment counsel before signing rights, option, shopping, exclusivity, or adaptation agreements.
