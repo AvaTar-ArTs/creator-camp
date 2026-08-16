@@ -1,0 +1,11 @@
+repository,priority,observed_role,primary_artifacts,creator_camp_relevance,canonical_or_reference,risks,next_action,audit_status
+agent-skills,P0,canonical reusable agent and skill runtime,"agents; skills; manifests; scripts; audit reports",high,canonical,"duplicate agents; stale counts; runtime/vendor material","generate repeatable inventory and production profiles",audited
+.Agent-skills,P1,near-duplicate mirror or snapshot,"agents; skills; manifests",medium,reference,"drift against agent-skills; unclear authority","compare and label mirror status",audited
+my-supremepowers,P1,upstream ecosystem and governance lab,"agents; domains; governance; consolidation docs",high,reference,"historical copies; tier-policy drift","extract governance patterns only",audited
+choTaku,P0,storyworld compiler and production contracts,"typed models; schemas; fixtures; validators",critical,canonical implementation,"provider boundary and contract evolution","bind Creator Camp project schema",audited
+chozen-land,P0,narrative ontology and cross-format exports,"canon; lore; scenes; stories; shots; exports",critical,canonical implementation,"schema duplication if copied","define import/export crosswalk",audited
+creator-camp,P0,public creator-to-IP operating layer,"guides; templates; audits; release workflow",critical,canonical coordination,"scope creep; duplicated code","keep orchestration and public documentation",active
+ai-comic-factory,P1,comic rendering surface,"panel continuation; layouts; rendering providers",high,reference adapter,"provider and credential coupling","design panel-plan adapter",audited
+open-design,P1,visual design and publishing substrate,"design systems; prompt templates; media contracts; QA","high",reference adapter,"large surface; unrelated product scope","extract storytelling templates",audited
+nocTurneMeLoDieS,P1,audio and music production/distribution,"music metadata; organization; publishing",medium,reference adapter,"large archive; mixed business content","define soundtrack projection",audited
+AVATARARTS,P0,large creative archive and asset reservoir,"research; prompts; images; HTML; business systems",critical,source reservoir,"rights ambiguity; duplicates; sensitive exports","ingest via provenance workflow",audited
